@@ -2,7 +2,7 @@
 
 Entrega de taller tailwindCSS, desarrollada con Next.js y Tailwind CSS. El diseño se basa en una maqueta visual que organiza diversos componentes de manera limpia y eficiente, utilizando `Grid` y `Flexbox`.
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Next.js:** Framework de React para construir aplicaciones web.
 - **React:** Biblioteca de JavaScript para construir interfaces de usuario interactivas.
@@ -42,8 +42,10 @@ Asegúrate de tener Node.js instalado en tu máquina.
 
 Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado.
 
-## 📸 Captura de Pantalla
+4. **Alternativamente visita la URL de despliegue**
 
-Aquí tienes una vista previa de la interfaz final:
+    [https://multiples-elementos.vercel.app/](https://multiples-elementos.vercel.app/)
+
+## 📸 Captura de Pantalla
 
 ![Captura de pantalla de la interfaz de Múltiples Elementos](page.webp)
